@@ -35,9 +35,9 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Luciferhere2}/count.svg" alt="Luciferhere2 :: Visitor's Count" /></p>
 
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p 
+  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp </p 
 ### SETUP
 
 1. Scan the QR and copy it
