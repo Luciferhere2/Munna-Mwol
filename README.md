@@ -8,13 +8,13 @@
 
   <p align="center"> Introducing Munna Mwol,Munna Mwol is designed to bring a whole new level of excitement to your boring WhatsApp </p
   
-### SETUP
+#### SETUP
 
 1. Scan the QR and copy it
 
     <br>
 
-<a href='https://hermit.adithyan.ml/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://MunnaMwol.Luciferhere2.ml/qr' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY TO HEROKU 
 
