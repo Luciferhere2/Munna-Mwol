@@ -1,6 +1,6 @@
 # _Munna Mwol_
 ## _Multi device whatsapp bot created Kiran Ser_
-#### _(i) No need of forking this repository_
+#### _(i) This Bot Is Only Limited!_
   
 <div align="center">
    
