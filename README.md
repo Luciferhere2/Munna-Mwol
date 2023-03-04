@@ -2,23 +2,7 @@
 ## _Multi device whatsapp bot created Kiran Ser_
 #### _(i) This Bot Is Only Limited!_
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl" target="_blank">
-
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-  </a>
-
- 
-
-  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
-
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
-
-  </a>
-
-</p>
-
----
+  
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Luciferhere2}/count.svg" alt="Luciferhere2 :: Visitor's Count" /></p>
 
