@@ -1,7 +1,25 @@
 # _Munna Mwol_
 ## _Multi device whatsapp bot created Kiran Ser_
 #### _(i) This Bot Is Only Limited!_
-  
+ <p align="center">  
+
+  <a href="https://citel.vercel.app/">
+
+    <img alt="secktor docs" height="300" src="https://secktrbot.tech/main.jpg">
+
+    <h1 align="center">Secktor MD Whatsapp bot</h1>
+
+  </a>
+
+</p>
+
+   
+
+<p align="center">
+
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl" target="_blank">
+
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
 ### SETUP
 
 1. Scan the QR and copy it
