@@ -1,11 +1,11 @@
 # _Munna Mwol_
 ## _Multi device whatsapp bot created Kiran Ser_
 #### _(i) This Bot Is Only Limited!_
- <p align="center">  
+<p align="center">  
 
   <a href="https://citel.vercel.app/">
 
-    <img alt="secktor docs" height="300" src="https://secktrbot.tech/main.jpg">
+    <img alt="secktor docs" height="300" src="https://secktorbot.tech/main.jpg">
 
     <h1 align="center">Secktor MD Whatsapp bot</h1>
 
@@ -19,7 +19,25 @@
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl" target="_blank">
 
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+  </a>
+
+ 
+
+  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
+
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+
+  </a>
+
+</p>
+
+---
+
+<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+
+  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p 
 ### SETUP
 
 1. Scan the QR and copy it
