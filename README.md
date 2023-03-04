@@ -22,7 +22,7 @@
 
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-3. Now Deploy
+2. Now Deploy
 
     <br>
 
@@ -36,11 +36,11 @@
 
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
+2. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
 
-4. Get [Koyeb api key](https://app.koyeb.com/account/api)
+3. Get [Koyeb api key](https://app.koyeb.com/account/api)
 
-2. Now Deploy
+4. Now Deploy
 
     <br>
 
