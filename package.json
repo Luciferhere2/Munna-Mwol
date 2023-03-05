@@ -1,21 +1,21 @@
 {
-  "name": "raganork-md",
-  "version": "3.0.5",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "name": "Munna Mwol",
+  "version": "1.0.0",
+  "description": "Munna Mwol whatsapp bot- Multi device version.",
   "scripts": {
-    "start": "pm2 start . --attach --name Raganork"
+    "start": "pm2 start . --attach --name Munna Mwol"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/Luciferhere2/Munna-Mwol.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Kiran Ser",
+  "developer": "@Luciferhere2",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
   "dependencies": {
