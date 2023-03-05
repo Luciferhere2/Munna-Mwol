@@ -23,7 +23,7 @@
 
     <br>
 
-<a href='https://hermit.adithyan.ml/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/Luciferhere2/Munna-Mwol' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO KOYEB 
 
@@ -33,7 +33,7 @@
 
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-2. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
+2. Get [DATABASE_URL](https://github.com/Luciferhere2/Munna-Mwol/wiki/DATABASE_URL) and copy it
 
 3. Get [Koyeb api key](https://app.koyeb.com/account/api)
 
@@ -41,4 +41,4 @@
 
     <br>
 
-<a href='https://hermit.adithyan.ml/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
+<a href='https://koyeb.com/deploy?template=https://github.com/Luciferhere2/Munna-Mwol' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
