@@ -2,12 +2,7 @@
 ## _Multi device whatsapp bot created Kiran Ser_
 #### _(i) This Bot Is Only Limited!_
 
-<div align="center">
 
-  <img border-radius: 15px src="https://i.imgur.com/7JaRWT0.jpeg" width="200" height="200"/>  
-
-
-  
 #### SETUP
 
 1. Scan the QR and copy it
