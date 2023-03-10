@@ -17,9 +17,9 @@
   "author": "Kiran Ser",
   "developer": "@Luciferhere2",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/Luciferhere2/Munna-Mwol#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/souravhttps://github.com/souravkl11/Baileys.gitkl11/Baileys.git",
     "@adiwajshing/keyed-db": "0.2.4",
     "acrcloud": "1.4.0",
     "adm-zip": "0.5.9",
@@ -32,7 +32,7 @@
     "node-webpmux": "^3.1.0",
     "pm2": "^5.2.2",
     "pg": "^8.5.1",
-    "raganork-bot": "^3.0.1",
+    "Munna Mwol-bot": "^3.0.1",
     "sqlite3": "^5.0.0",
     "string-crypto": "2.0.2",
     "google-tts-api": "2.0.2"
