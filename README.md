@@ -1,5 +1,5 @@
 # _Munna Mwol_
-## _Multi device whatsapp bot created Kiran Ser_
+## _Multi device whatsapp bot created By Kiran Ser_
 #### _(i) New Features Coming Soon.!_
 
 #### SETUP
