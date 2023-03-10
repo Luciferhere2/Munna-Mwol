@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
+	"name": "Munna Mwol",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/Luciferhere2/Munna-Mwol",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"ꪑꪊꪀꪀꪖ ꪑ᭙ꪮꪶ;кιяαи ѕєя"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -51,7 +51,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Munna Mwol"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"919539060020"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
