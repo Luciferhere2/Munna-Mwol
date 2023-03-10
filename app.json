@@ -37,6 +37,11 @@
             "description": "Exact name which you gave at the top",
             "required": true,
             "value":""
+},
+        "BOT_INFO": {
+            "description": "Just leave it if you don't want to edit munna mwol",
+            "required": false,
+            "value":"Munna Mwol;Kiran Ser;0;https://i.imgur.com/y9rn5dl.jpeg;https://chat.whatsapp.com/H7IlnOYuh0TBqAe19NDov0"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
